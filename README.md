@@ -1,5 +1,5 @@
-cat << 'EOF' > ~/kre8tive-tech-site/README.md
-# 🚀 Welcome to Kre8tive, Let's Kre8 Together
+
+#  Welcome to the FacePrintPay- Kre8tive KonCeptz, Let's Kre8 Together
 **Sovereign AI, Edge Computing, and Next-Generation Infrastructure.**
 
 Welcome to **Kre8tive Tech** (formerly Kre8tive Konceptz). 
