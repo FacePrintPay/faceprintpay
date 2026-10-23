@@ -1,5 +1,5 @@
 
-#  Welcome to the FacePrintPay- Kre8tive KonCeptz, Let's Kre8 Together
+#  Welcome to FacePrintPay-the obscured repository for   Kre8tive KonCeptz, Let's Kre8 Together
 **Sovereign AI, Edge Computing, and Next-Generation Infrastructure.**
 
 Welcome to **Kre8tive Tech** (formerly Kre8tive Konceptz). 
