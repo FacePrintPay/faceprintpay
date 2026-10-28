@@ -18,3 +18,5 @@ if [ -f ~/forensic_api/logs/api.pid ]; then
 fi
 
 echo "All services stopped."
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=stop.sh

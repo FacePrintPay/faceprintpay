@@ -4,3 +4,5 @@
   "permissions": ["PAYMENTS_WRITE", "CUSTOMERS_WRITE"],
   "redirect_urls": ["https://cleanbuildfresh.vercel.app/auth/square/callback"]
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=manifest.json

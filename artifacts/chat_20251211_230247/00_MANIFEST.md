@@ -21,3 +21,5 @@ Paste each ChatGPT Artifact into its matching file below.
 ## Notes
 - Keep original text unedited for provenance
 - If a file is bash, preserve the shebang and chmod +x
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=00_MANIFEST.md

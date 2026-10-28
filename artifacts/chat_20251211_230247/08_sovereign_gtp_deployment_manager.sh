@@ -46,3 +46,5 @@ touch \
   "$ART_DIR/14_fixed_sovereign_swarm_deployment_system.sh"
 
 echo "[✓] Ready. Paste artifacts into: $ART_DIR"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=08_sovereign_gtp_deployment_manager.sh

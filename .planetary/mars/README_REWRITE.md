@@ -73,3 +73,5 @@ nano README_REWRITE.md
 git add README_REWRITE.md
 git commit -m "Mars agent: updated README"
 git push origin main
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README_REWRITE.md

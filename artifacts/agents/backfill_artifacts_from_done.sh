@@ -62,3 +62,5 @@ done
 
 echo "Backfilled artifacts for $count tasks into:"
 echo "  $ARTIFACT_ROOT"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=backfill_artifacts_from_done.sh

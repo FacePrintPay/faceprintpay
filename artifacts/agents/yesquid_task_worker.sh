@@ -95,3 +95,5 @@ fi
 mv "$TASK_FILE" "$DONE_DIR/"
 echo "Task $TASK_ID moved to $DONE_DIR" | tee -a "$LOG_FILE"
 echo "Worker complete." | tee -a "$LOG_FILE"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=yesquid_task_worker.sh

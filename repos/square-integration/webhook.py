@@ -19,3 +19,5 @@ class Handler(http.server.BaseHTTPRequestHandler):
 if __name__ == '__main__':
     port = int(sys.argv[1]) if len(sys.argv) > 1 else 8080
     http.server.HTTPServer(('', port), Handler).serve_forever()
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=webhook.py
