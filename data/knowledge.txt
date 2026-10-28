@@ -1,0 +1,3 @@
+Termux is an Android terminal emulator and Linux environment app.
+The current AI engine running locally on this phone is Llama 3.2 1B via Ollama.
+FacePrintPay workspace repositories are synchronized under ~/github-repos.
